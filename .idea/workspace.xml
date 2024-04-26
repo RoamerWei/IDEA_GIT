@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aed8174-06fd-4fda-bb91-90436cb5df49" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kono/git/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kono/git/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-git-workspace.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2fcsifaxPrU2wfIIfa43rJF3EdP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Develop/IdeaProject/test-git-workspace",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4aed8174-06fd-4fda-bb91-90436cb5df49" name="更改" comment="" />
+      <created>1714111831163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714111831163</updated>
+      <workItem from="1714111832210" duration="1975000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714112626242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714112626243</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714112716969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714112716969</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113199285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113199285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113207463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113207463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第五次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113219208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113219208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第四次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113486571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113486571</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第四次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113533064</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113533064</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第三次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113572134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113572135</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第四次使用idea提交代码">
+      <option name="closed" value="true" />
+      <created>1714113631104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113631104</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;第三次使用idea提交代码&quot;&#10;&#10;This reverts commit 25bc21db">
+      <option name="closed" value="true" />
+      <created>1714113683676</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113683676</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Revert &quot;第一次使用idea提交代码&quot;&#10;&#10;This reverts commit 47bca37f">
+      <option name="closed" value="true" />
+      <created>1714113737091</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113737091</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次使用idea提交代码" />
+    <MESSAGE value="第二次使用idea提交代码" />
+    <MESSAGE value="第五次使用idea提交代码" />
+    <MESSAGE value="第三次使用idea提交代码" />
+    <MESSAGE value="第四次使用idea提交代码" />
+    <MESSAGE value="Revert &quot;第三次使用idea提交代码&quot;&#10;&#10;This reverts commit 25bc21db" />
+    <MESSAGE value="Revert &quot;第一次使用idea提交代码&quot;&#10;&#10;This reverts commit 47bca37f" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;第一次使用idea提交代码&quot;&#10;&#10;This reverts commit 47bca37f" />
+  </component>
+</project>
